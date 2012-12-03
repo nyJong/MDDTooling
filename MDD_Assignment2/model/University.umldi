@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_6uLEITovEeKGE-IfVMkB-g" activeDiagram="_6uOHcDovEeKGE-IfVMkB-g">
+  <model href="University.uml#_w8IxIM37EdqwVrslYOdUDA"/>
+  <diagrams xmi:id="_6uOHcDovEeKGE-IfVMkB-g" position="0,0" size="100,100" name="University" viewport="0,0">
+    <property xmi:id="_6x34YDovEeKGE-IfVMkB-g" key="pageFormatName" value="A4"/>
+    <property xmi:id="_6x34YTovEeKGE-IfVMkB-g" key="diagramWidth" value="840"/>
+    <property xmi:id="_6x34YjovEeKGE-IfVMkB-g" key="diagramHeight" value="1188"/>
+    <property xmi:id="_6x34YzovEeKGE-IfVMkB-g" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_6x34ZDovEeKGE-IfVMkB-g" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_6x34ZTovEeKGE-IfVMkB-g" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_6x34ZjovEeKGE-IfVMkB-g" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_6x34ZzovEeKGE-IfVMkB-g" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_6x34aDovEeKGE-IfVMkB-g" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_6uPVkDovEeKGE-IfVMkB-g" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="University.uml#_w8IxIM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_7WExoDovEeKGE-IfVMkB-g" position="290,103" size="153,-1">
+      <anchorage xmi:id="_5R1zkTowEeKGE-IfVMkB-g" graphEdge="_5SwZkDowEeKGE-IfVMkB-g _6JKdIDowEeKGE-IfVMkB-g _7U0X8DowEeKGE-IfVMkB-g _FZKxwDoxEeKGE-IfVMkB-g"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_7WExoTovEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_7X8Z4DovEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_7WExojovEeKGE-IfVMkB-g">
+        <property xmi:id="_7WExozovEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_7WExpDovEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_7X8Z4DovEeKGE-IfVMkB-g"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_ImPnMDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_ImPnMTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_InFUsDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_TMUOADowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_TMUOATowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_TMVcIDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_WL6ysDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_WL6ysTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_WL9O8DowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_e7E7MDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_e7E7MTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_e7HXcDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_7WExpTovEeKGE-IfVMkB-g">
+        <property xmi:id="_7WExpjovEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="47 50 "/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_7WExpzovEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_7X8Z4DovEeKGE-IfVMkB-g"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_hp-KYDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_hp-KYTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_hqfHwDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_kg3fADowEeKGE-IfVMkB-g" position="533,136" size="100,-1">
+      <anchorage xmi:id="_FZGgUDoxEeKGE-IfVMkB-g" graphEdge="_FZKxwDoxEeKGE-IfVMkB-g"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_kg4GEDowEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_khDsQDowEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_kg4GETowEeKGE-IfVMkB-g">
+        <property xmi:id="_kg4GEjowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_kg4GEzowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_khDsQDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_lo5eEDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_lo5eETowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_lo76UDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_kg4GFDowEeKGE-IfVMkB-g">
+        <property xmi:id="_kg4GFTowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="47 50 "/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_kg4GFjowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_khDsQDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_mjFOYDowEeKGE-IfVMkB-g" position="105,134" size="100,-1">
+      <anchorage xmi:id="_7UJCgDowEeKGE-IfVMkB-g" graphEdge="_7U0X8DowEeKGE-IfVMkB-g"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mjFOYTowEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_mjSpwDowEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_mjFOYjowEeKGE-IfVMkB-g">
+        <property xmi:id="_mjFOYzowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mjFOZDowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_mjSpwDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_nf9GUDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_nf9GUTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_nf9tYDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_oDsFgDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_oDsFgTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_oDuhwDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_mjFOZTowEeKGE-IfVMkB-g">
+        <property xmi:id="_mjFOZjowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="47 50 "/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mjFOZzowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_mjSpwDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_q_qHYDowEeKGE-IfVMkB-g" position="208,294" size="100,-1">
+      <anchorage xmi:id="_5R1zkDowEeKGE-IfVMkB-g" graphEdge="_5SwZkDowEeKGE-IfVMkB-g _SDlO4DoxEeKGE-IfVMkB-g"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_q_qHYTowEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_q_3iwDowEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_q_qHYjowEeKGE-IfVMkB-g">
+        <property xmi:id="_q_qHYzowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_q_qHZDowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_q_3iwDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_snF_QDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_snF_QTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_snIbgDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_q_qHZTowEeKGE-IfVMkB-g">
+        <property xmi:id="_q_qHZjowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="47 50 "/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_q_qHZzowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_q_3iwDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_rmsSMDowEeKGE-IfVMkB-g" position="430,293" size="100,-1">
+      <anchorage xmi:id="_6JHZ0DowEeKGE-IfVMkB-g" graphEdge="_6JKdIDowEeKGE-IfVMkB-g"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_rmsSMTowEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_rm7iwDowEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_rmsSMjowEeKGE-IfVMkB-g">
+        <property xmi:id="_rmsSMzowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_rmsSNDowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_rm7iwDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_t598YDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_t598YTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_t6AYoDowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_rmsSNTowEeKGE-IfVMkB-g">
+        <property xmi:id="_rms5QDowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="47 50 "/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_rms5QTowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_rm7iwDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_u7NW8DowEeKGE-IfVMkB-g" position="207,424" size="100,-1">
+      <anchorage xmi:id="_SDhkgDoxEeKGE-IfVMkB-g" graphEdge="_SDlO4DoxEeKGE-IfVMkB-g _AXG7MDozEeKGE-IfVMkB-g"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_u7NW8TowEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_u7fDwDowEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_u7NW8jowEeKGE-IfVMkB-g">
+        <property xmi:id="_u7NW8zowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_u7NW9DowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_u7fDwDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_v-TLoDowEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_v-TLoTowEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_v-VA0DowEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_u7NW9TowEeKGE-IfVMkB-g">
+        <property xmi:id="_u7NW9jowEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="47 50 "/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_u7NW9zowEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_u7fDwDowEeKGE-IfVMkB-g"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_5SwZkDowEeKGE-IfVMkB-g" anchor="_5R1zkDowEeKGE-IfVMkB-g _5R1zkTowEeKGE-IfVMkB-g">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_5SwZkTowEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_5S3uUDowEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_5SwZkjowEeKGE-IfVMkB-g" id="stereotypeEdgeObject"/>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_6JKdIDowEeKGE-IfVMkB-g" anchor="_6JHZ0DowEeKGE-IfVMkB-g _5R1zkTowEeKGE-IfVMkB-g">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_6JKdITowEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_6JYfkDowEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_6JKdIjowEeKGE-IfVMkB-g" id="stereotypeEdgeObject"/>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_7U0X8DowEeKGE-IfVMkB-g" anchor="_7UJCgDowEeKGE-IfVMkB-g _5R1zkTowEeKGE-IfVMkB-g">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_7U0X8TowEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_7VBMQDowEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_7U0X8jowEeKGE-IfVMkB-g" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_7U0X8zowEeKGE-IfVMkB-g" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_7U0X9DowEeKGE-IfVMkB-g" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_7U0X9TowEeKGE-IfVMkB-g" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_7U0X9jowEeKGE-IfVMkB-g" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_7U0X9zowEeKGE-IfVMkB-g" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_7U0X-DowEeKGE-IfVMkB-g" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_7U0X-TowEeKGE-IfVMkB-g" id="stereotypeEdgeObject" offset="0,-10"/>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_FZKxwDoxEeKGE-IfVMkB-g" anchor="_5R1zkTowEeKGE-IfVMkB-g _FZGgUDoxEeKGE-IfVMkB-g">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FZKxwToxEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_FZYNIDoxEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_FZKxwjoxEeKGE-IfVMkB-g" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_FZKxwzoxEeKGE-IfVMkB-g" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_FZKxxDoxEeKGE-IfVMkB-g" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_FZKxxToxEeKGE-IfVMkB-g" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_FZKxxjoxEeKGE-IfVMkB-g" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_FZKxxzoxEeKGE-IfVMkB-g" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_FZKxyDoxEeKGE-IfVMkB-g" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_FZKxyToxEeKGE-IfVMkB-g" id="stereotypeEdgeObject" offset="0,-10"/>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_SDlO4DoxEeKGE-IfVMkB-g" anchor="_5R1zkDowEeKGE-IfVMkB-g _SDhkgDoxEeKGE-IfVMkB-g">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_SDlO4ToxEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_SD4w4DoxEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_SDlO4joxEeKGE-IfVMkB-g" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_SDlO4zoxEeKGE-IfVMkB-g" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_SDlO5DoxEeKGE-IfVMkB-g" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_SDlO5ToxEeKGE-IfVMkB-g" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_SDlO5joxEeKGE-IfVMkB-g" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_SDlO5zoxEeKGE-IfVMkB-g" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_SDlO6DoxEeKGE-IfVMkB-g" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_SDl18DoxEeKGE-IfVMkB-g" id="stereotypeEdgeObject" offset="0,-10"/>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_9fzW4DoyEeKGE-IfVMkB-g" position="434,418" size="100,-1">
+      <anchorage xmi:id="_AXCpwDozEeKGE-IfVMkB-g" graphEdge="_AXG7MDozEeKGE-IfVMkB-g"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_9fzW4ToyEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_9gJVIDoyEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_9fzW4joyEeKGE-IfVMkB-g">
+        <property xmi:id="_9fzW4zoyEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_9fzW5DoyEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_9gJVIDoyEeKGE-IfVMkB-g"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_-2pOADoyEeKGE-IfVMkB-g" position="0,0" size="-1,-1">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_-2pOAToyEeKGE-IfVMkB-g" presentation="default">
+            <element href="University.uml#_-2rDMDoyEeKGE-IfVMkB-g"/>
+          </semanticModel>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_9fzW5ToyEeKGE-IfVMkB-g">
+        <property xmi:id="_9fzW5joyEeKGE-IfVMkB-g" key="eStructuralFeatureID" value="47 50 "/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_9fzW5zoyEeKGE-IfVMkB-g" presentation="default">
+          <element href="University.uml#_9gJVIDoyEeKGE-IfVMkB-g"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_AXG7MDozEeKGE-IfVMkB-g" anchor="_SDhkgDoxEeKGE-IfVMkB-g _AXCpwDozEeKGE-IfVMkB-g">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_AXG7MTozEeKGE-IfVMkB-g" presentation="default">
+        <element href="University.uml#_AXU9oDozEeKGE-IfVMkB-g"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_AXG7MjozEeKGE-IfVMkB-g" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_AXG7MzozEeKGE-IfVMkB-g" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_AXG7NDozEeKGE-IfVMkB-g" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_AXG7NTozEeKGE-IfVMkB-g" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_AXG7NjozEeKGE-IfVMkB-g" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_AXG7NzozEeKGE-IfVMkB-g" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_AXG7ODozEeKGE-IfVMkB-g" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_AXG7OTozEeKGE-IfVMkB-g" id="stereotypeEdgeObject" offset="0,-10"/>
+    </contained>
+  </diagrams>
+</diagrams:Diagrams>

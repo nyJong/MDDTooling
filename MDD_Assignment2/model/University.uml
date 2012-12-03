@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qb8akM37EdqwVrslYOdUDA">
+  <packagedElement xmi:type="uml:Package" xmi:id="_w8IxIM37EdqwVrslYOdUDA" name="University">
+    <packagedElement xmi:type="uml:Class" xmi:id="_7X8Z4DovEeKGE-IfVMkB-g" name="Employee">
+      <ownedAttribute xmi:id="_InFUsDowEeKGE-IfVMkB-g" name="name" visibility="package"/>
+      <ownedAttribute xmi:id="_TMVcIDowEeKGE-IfVMkB-g" name="surname"/>
+      <ownedAttribute xmi:id="_WL9O8DowEeKGE-IfVMkB-g" name="birthdate" visibility="protected">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YpN7kDowEeKGE-IfVMkB-g"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_e7HXcDowEeKGE-IfVMkB-g" name="salary" visibility="private">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gdskgDowEeKGE-IfVMkB-g"/>
+      </ownedAttribute>
+      <ownedOperation xmi:id="_hqfHwDowEeKGE-IfVMkB-g" name="increaseSalary"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_khDsQDowEeKGE-IfVMkB-g" name="Faculty">
+      <ownedAttribute xmi:id="_lo76UDowEeKGE-IfVMkB-g" name="name"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_mjSpwDowEeKGE-IfVMkB-g" name="Address">
+      <ownedAttribute xmi:id="_nf9tYDowEeKGE-IfVMkB-g" name="street"/>
+      <ownedAttribute xmi:id="_oDuhwDowEeKGE-IfVMkB-g" name="place"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_q_3iwDowEeKGE-IfVMkB-g" name="Teacher">
+      <generalization xmi:id="_5S3uUDowEeKGE-IfVMkB-g" general="_7X8Z4DovEeKGE-IfVMkB-g"/>
+      <ownedAttribute xmi:id="_snIbgDowEeKGE-IfVMkB-g" name="education"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_rm7iwDowEeKGE-IfVMkB-g" name="Manager">
+      <generalization xmi:id="_6JYfkDowEeKGE-IfVMkB-g" general="_7X8Z4DovEeKGE-IfVMkB-g"/>
+      <ownedAttribute xmi:id="_t6AYoDowEeKGE-IfVMkB-g" name="bonus"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_u7fDwDowEeKGE-IfVMkB-g" name="Course">
+      <ownedAttribute xmi:id="_v-VA0DowEeKGE-IfVMkB-g" name="name"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_7VBMQDowEeKGE-IfVMkB-g" name="A_&lt;address>_&lt;employee>" memberEnd="_7VBMQTowEeKGE-IfVMkB-g _7VBMRDowEeKGE-IfVMkB-g">
+      <ownedEnd xmi:id="_7VBMQTowEeKGE-IfVMkB-g" name="" type="_mjSpwDowEeKGE-IfVMkB-g" association="_7VBMQDowEeKGE-IfVMkB-g">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7VBMQjowEeKGE-IfVMkB-g" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7VBMQzowEeKGE-IfVMkB-g" value="1"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_7VBMRDowEeKGE-IfVMkB-g" name="" type="_7X8Z4DovEeKGE-IfVMkB-g" association="_7VBMQDowEeKGE-IfVMkB-g">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7VBMRTowEeKGE-IfVMkB-g" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7VBMRjowEeKGE-IfVMkB-g" value="1"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_FZYNIDoxEeKGE-IfVMkB-g" name="A_&lt;employee>_&lt;faculty>" memberEnd="_FZYNIToxEeKGE-IfVMkB-g _FZYNJDoxEeKGE-IfVMkB-g">
+      <ownedEnd xmi:id="_FZYNIToxEeKGE-IfVMkB-g" name="" type="_7X8Z4DovEeKGE-IfVMkB-g" isUnique="false" association="_FZYNIDoxEeKGE-IfVMkB-g">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FZYNIjoxEeKGE-IfVMkB-g" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FZYNIzoxEeKGE-IfVMkB-g" value="1"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_FZYNJDoxEeKGE-IfVMkB-g" name="" type="_khDsQDowEeKGE-IfVMkB-g" association="_FZYNIDoxEeKGE-IfVMkB-g">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FZYNJToxEeKGE-IfVMkB-g" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FZYNJjoxEeKGE-IfVMkB-g" value="1"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_SD4w4DoxEeKGE-IfVMkB-g" name="A_&lt;teacher>_&lt;course>" memberEnd="_SD4w4ToxEeKGE-IfVMkB-g _SD4w5DoxEeKGE-IfVMkB-g">
+      <ownedEnd xmi:id="_SD4w4ToxEeKGE-IfVMkB-g" name="givenBy" type="_q_3iwDowEeKGE-IfVMkB-g" isUnique="false" association="_SD4w4DoxEeKGE-IfVMkB-g">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_SD4w4joxEeKGE-IfVMkB-g" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_SD4w4zoxEeKGE-IfVMkB-g"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_SD4w5DoxEeKGE-IfVMkB-g" name="gives" type="_u7fDwDowEeKGE-IfVMkB-g" isUnique="false" association="_SD4w4DoxEeKGE-IfVMkB-g">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_SD4w5ToxEeKGE-IfVMkB-g" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_SD4w5joxEeKGE-IfVMkB-g"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_9gJVIDoyEeKGE-IfVMkB-g" name="Student">
+      <ownedAttribute xmi:id="_-2rDMDoyEeKGE-IfVMkB-g" name="name"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_AXU9oDozEeKGE-IfVMkB-g" name="A_&lt;course>_&lt;student>" memberEnd="_AXU9oTozEeKGE-IfVMkB-g _AXU9pDozEeKGE-IfVMkB-g">
+      <ownedEnd xmi:id="_AXU9oTozEeKGE-IfVMkB-g" name="" type="_u7fDwDowEeKGE-IfVMkB-g" association="_AXU9oDozEeKGE-IfVMkB-g">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_AXU9ojozEeKGE-IfVMkB-g" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_AXU9ozozEeKGE-IfVMkB-g" value="1"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_AXU9pDozEeKGE-IfVMkB-g" name="" type="_9gJVIDoyEeKGE-IfVMkB-g" association="_AXU9oDozEeKGE-IfVMkB-g">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_AXU9pTozEeKGE-IfVMkB-g" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_AXU9pjozEeKGE-IfVMkB-g" value="1"/>
+      </ownedEnd>
+    </packagedElement>
+  </packagedElement>
+</uml:Model>
